@@ -86,11 +86,9 @@
               <Component id="Question5TextBox" min="-2" max="-2" attributes="0"/>
               <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="103" alignment="1" groupAlignment="3" attributes="0">
-                      <Component id="FinalScoreLabel" alignment="1" pref="29" max="32767" attributes="0"/>
-                      <Component id="SubmitButton" alignment="1" max="32767" attributes="0"/>
-                      <Component id="YourScoreLabel" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
-                  </Group>
+                  <Component id="FinalScoreLabel" alignment="1" pref="29" max="32767" attributes="0"/>
+                  <Component id="SubmitButton" alignment="1" max="32767" attributes="0"/>
+                  <Component id="YourScoreLabel" min="-2" pref="23" max="-2" attributes="0"/>
                   <Component id="Statement" max="32767" attributes="0"/>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
